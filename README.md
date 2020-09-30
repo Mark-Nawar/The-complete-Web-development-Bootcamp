@@ -17,3 +17,13 @@ We will also use bootsrap's navbar.
   
 ![git2](https://user-images.githubusercontent.com/62334815/94078181-68cce380-fdfe-11ea-9a73-c8a13f8afe69.JPG)
 
+<h1> Project 2</h2>
+<h3> 1-Jumptron + Cards of bootstrap created a travel blog mini site</h3>
+
+
+![bootsrapp](https://user-images.githubusercontent.com/62334815/94641906-e1daa800-02e2-11eb-92d6-b36dcf78533f.JPG)
+
+<h3> 2-Testing the resposnive features of bootstrap by creating a candy shop site</h3>
+
+![design1](https://user-images.githubusercontent.com/62334815/94641892-d2f3f580-02e2-11eb-8978-592f388278fa.JPG)
+
